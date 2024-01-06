@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "W"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:salmon"
+    },
+    "W": {
+      "item": "fswonders:watered_tin_can"
+    }
+  },
+  "result": {
+    "item": "fswonders:salmon_fish_tin_can",
+    "count": 1
+  }
+}

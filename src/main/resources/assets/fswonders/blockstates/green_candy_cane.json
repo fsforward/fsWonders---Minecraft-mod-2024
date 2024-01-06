@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fswonders:block/green_candy_cane"
+    },
+    "facing=south": {
+      "model": "fswonders:block/green_candy_cane",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fswonders:block/green_candy_cane",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "fswonders:block/green_candy_cane",
+      "y": 90
+    }
+  }
+}

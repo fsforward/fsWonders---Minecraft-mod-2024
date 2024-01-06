@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "S",
+    "J"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:apple"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "J": {
+      "item": "fswonders:glass_jar"
+    }
+  },
+  "result": {
+    "item": "fswonders:red_jam",
+    "count": 1
+  }
+}

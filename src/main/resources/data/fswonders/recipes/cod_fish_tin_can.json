@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "W"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cod"
+    },
+    "W": {
+      "item": "fswonders:watered_tin_can"
+    }
+  },
+  "result": {
+    "item": "fswonders:cod_fish_tin_can",
+    "count": 1
+  }
+}

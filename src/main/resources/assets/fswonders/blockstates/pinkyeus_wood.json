@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "fswonders:block/pinkyeus_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "fswonders:block/pinkyeus_wood"
+    },
+    "axis=z": {
+      "model": "fswonders:block/pinkyeus_wood_horizontal",
+      "x": 90
+    }
+  }
+}

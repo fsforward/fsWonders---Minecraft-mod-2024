@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:brown_mushroom"
+  },
+  "result": "fswonders:brown_munchroom",
+  "experience": 0.2,
+  "cookingtime": 200
+}

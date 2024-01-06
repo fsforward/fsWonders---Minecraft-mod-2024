@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fswonders:item/tropical_fish_tin_can"
+  }
+}

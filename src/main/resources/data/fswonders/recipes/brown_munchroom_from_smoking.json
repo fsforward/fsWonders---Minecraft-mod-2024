@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:brown_mushroom"
+  },
+  "result": "fswonders:brown_munchroom",
+  "experience": 0.1,
+  "cookingtime": 100
+}

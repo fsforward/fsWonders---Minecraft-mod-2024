@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "W"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:tropical_fish"
+    },
+    "W": {
+      "item": "fswonders:watered_tin_can"
+    }
+  },
+  "result": {
+    "item": "fswonders:tropical_fish_tin_can",
+    "count": 1
+  }
+}

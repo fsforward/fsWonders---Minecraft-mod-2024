@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "fswonders:block/black_ash_log_top",
+    "side": "fswonders:block/black_ash_log"
+  }
+}

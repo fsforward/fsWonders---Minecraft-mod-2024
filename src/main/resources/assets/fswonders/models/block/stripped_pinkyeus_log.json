@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "fswonders:block/stripped_pinkyeus_log_top",
+    "side": "fswonders:block/stripped_pinkyeus_log"
+  }
+}

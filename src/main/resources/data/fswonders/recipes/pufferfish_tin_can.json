@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P",
+    "W"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:pufferfish"
+    },
+    "W": {
+      "item": "fswonders:watered_tin_can"
+    }
+  },
+  "result": {
+    "item": "fswonders:pufferfish_tin_can",
+    "count": 1
+  }
+}
